@@ -32,11 +32,10 @@ A simple console-based Java application that manages a library system using MySQ
 
 
 🗃️ Database
-Automatically creates:
+Automatically creates:  <br>
 1.books table  <br>
 2.patrons table  <br>
 3.borrowed_books  <br>
-
 Managed via DBConnection.initializeDatabase() on app start.
 
 
@@ -51,9 +50,8 @@ Managed via DBConnection.initializeDatabase() on app start.
 8.Delete Patron   <br>
 9.Exit   <br>
 
-## ⚙️ Setup Instructions   <br>
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/123Ashmita/LibraryManagementSystemUsingDatabase.git
+# How to Clone?
+go to master branch then clone repo <br>
+git clone https://github.com/123Ashmita/LibraryManagementSystemUsingDatabase.git  <br>
 cd LibraryManagementSystemUsingDatabase
